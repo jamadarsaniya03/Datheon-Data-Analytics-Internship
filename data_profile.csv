@@ -1,0 +1,22 @@
+Column Name,Data Type,Missing Values,Unique Values
+Row ID,str,0,10001
+Order ID,str,0,5015
+Order Date,str,806,1236
+Ship Date,str,806,1334
+Ship Mode,str,806,4
+Customer ID,str,806,793
+Customer Name,str,806,793
+Segment,str,806,3
+Country,str,806,1
+City,str,806,531
+State,str,806,49
+Postal Code,float64,817,630
+Region,str,806,4
+Product ID,str,806,1862
+Category,str,806,3
+Sub-Category,str,806,17
+Product Name,str,806,1850
+Sales,float64,806,5825
+Quantity,float64,806,14
+Discount,float64,806,12
+Profit,float64,806,7287
